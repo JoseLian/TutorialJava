@@ -3,7 +3,7 @@ package discoDuroDeroer;
 import javax.swing.JOptionPane;
 
 /**
- * Clase que evalúa si el número es primo.
+ * Clase que evalúa si un número es primo.
  * @author JJauregui
  *
  */

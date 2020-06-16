@@ -22,8 +22,11 @@ public class Principal {
 //		Ejercicio04 ej04 = new Ejercicio04();
 //		ej04.MostrarSerie();
 		
-		Ejercicio05 ej05 = new Ejercicio05();
-		ej05.EsPrimo();
+//		Ejercicio05 ej05 = new Ejercicio05();
+//		ej05.EsPrimo();
+		
+		Ejercicio06 ej06 = new Ejercicio06();
+		ej06.setVisible(true);
 	}
 
 }
